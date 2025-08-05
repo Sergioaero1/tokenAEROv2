@@ -1,4 +1,5 @@
-# tokenAEROv2
+# 🟢 TokenAEROv2
+
 My ERC-20 creation. 05/08/2025 tokenAERO  version 2.0
 
 TokenAEROv2 is a deflationary token designed to reward holders and fund development through an automated fee mechanism. With every transaction, the token supply decreases while the treasury grows — creating long-term value and sustainability.
@@ -17,7 +18,7 @@ Every transaction triggers an automatic burn of 1% of the transferred amount. Th
 
 1% of each transaction is redirected to the treasury. This fund supports future development, partnerships, and governance initiatives.
 
-![Treasury vs Circulating Supply Graph]
+![Treasury vs Circulating Supply Graph](Treasury_vs_Circulating_Supply_Graph.png)
 
 ---
 
@@ -55,7 +56,7 @@ Each transaction is split as follows:
 ---
 
 
-# TokenAEROv2
+# 🟢 TokenAEROv2
 
 TokenAEROv2 é um token deflacionário criado para recompensar holders e financiar o desenvolvimento por meio de uma taxa automática em cada transação. A cada transferência, o supply diminui e o tesouro cresce — gerando valor e sustentabilidade de longo prazo.
 
@@ -73,7 +74,7 @@ Cada transação queima automaticamente 1% do valor transferido. Isso reduz o su
 
 1% de cada transação vai para o tesouro. Esse fundo apoia o desenvolvimento futuro, parcerias estratégicas e iniciativas de governança.
 
-![Gráfico Tesouro vs Supply Circulante]
+![Gráfico Tesouro vs Supply Circulante](Treasury_vs_Circulating_Supply_Graph.png)
 
 ---
 
