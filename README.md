@@ -9,7 +9,7 @@ TokenAEROv2 is a deflationary token designed to reward holders and fund developm
 
 Every transaction triggers an automatic burn of 1% of the transferred amount. This reduces the total supply over time, creating scarcity and increasing value for holders.
 
-![Deflation Curve Graph]
+![Deflation Curve Graph](Deflation_Curve_Graph.png)
 
 ---
 
@@ -65,7 +65,7 @@ TokenAEROv2 é um token deflacionário criado para recompensar holders e financi
 
 Cada transação queima automaticamente 1% do valor transferido. Isso reduz o supply total ao longo do tempo, criando escassez e valorizando os tokens dos holders.
 
-![Gráfico da Curva de Deflação]
+![Gráfico da Curva de Deflação](Deflation_Curve_Graph.png)
 
 ---
 
