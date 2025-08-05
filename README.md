@@ -29,7 +29,7 @@ Each transaction is split as follows:
 - 1% → Burned
 - 1% → Treasury
 
-![Fee Breakdown Pie Chart]
+![Fee Breakdown Pie Chart](Fee_Breakdown_Pie_Chart.png)
 
 ---
 
@@ -85,7 +85,7 @@ Cada transação é dividida da seguinte forma:
 - 1% → Queima  
 - 1% → Tesouro
 
-![Gráfico de Pizza das Taxas]
+![Gráfico de Pizza das Taxas](Fee_Breakdown_Pie_Chart.png)
 
 ---
 
