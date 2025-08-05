@@ -40,7 +40,7 @@ Each transaction is split as follows:
 - **Q1 2026**: Strategic Partnerships  
 - **Q2 2026**: DAO Governance Activation  
 
-![Roadmap Timeline Graph]
+![Roadmap Timeline Graph](Roadmap_Graph.png)
 
 ---
 
@@ -96,7 +96,7 @@ Cada transação é dividida da seguinte forma:
 - **Q1 2026**: Parcerias Estratégicas  
 - **Q2 2026**: Ativação da Governança DAO  
 
-![Gráfico da Linha do Tempo]
+![Gráfico da Linha do Tempo](Roadmap_Graph.png)
 
 ---
 
