@@ -56,7 +56,7 @@ Each transaction is split as follows:
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# 🟢 TokenAEROv2
+![tittle](/images/tittle.png)
 
 TokenAEROv2 é um token deflacionário criado para recompensar holders e financiar o desenvolvimento por meio de uma taxa automática em cada transação. A cada transferência, o supply diminui e o tesouro cresce — gerando valor e sustentabilidade de longo prazo.
 
