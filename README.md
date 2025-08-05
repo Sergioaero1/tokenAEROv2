@@ -1,5 +1,5 @@
 # 🟢 TokenAEROv2
-# ![TokenAEROv2](imgs/tokenaero-title.png)
+# ![TokenAEROv2](/images/title.png)
 
 My ERC-20 creation. 05/08/2025 tokenAERO  version 2.0
 
@@ -11,7 +11,7 @@ TokenAEROv2 is a deflationary token designed to reward holders and fund developm
 
 Every transaction triggers an automatic burn of 1% of the transferred amount. This reduces the total supply over time, creating scarcity and increasing value for holders.
 
-![Deflation Curve Graph](Deflation_Curve_Graph.png)
+![Deflation Curve Graph](/images/Deflation_Curve_Graph.png)
 
 -------------------------------------
 
